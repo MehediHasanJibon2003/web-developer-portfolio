@@ -97,6 +97,9 @@ max-width: 500px;
 .about-info{
     text-align: center;
 }
+#what-I-do-description{
+   padding: 30px 150px;
+}
 
 /* main section */
 main{
